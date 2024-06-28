@@ -1,0 +1,17 @@
+.image-footer5 {
+  margin-left: 200%;
+  margin-top: -60%;
+  width: 90%;
+}
+.his {
+  margin-left: 50%;
+}
+
+@media (max-width: 760px) {
+  .image-footer5 {
+    display: none;
+  }
+}
+.np {
+  margin-left: 20px;
+}
